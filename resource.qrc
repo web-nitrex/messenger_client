@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/resource">
+        <file>sound/Whistle.wav</file>
+        <file>sound/Catch.wav</file>
+        <file>image/icon.png</file>
+        <file>image/IconApp.ico</file>
+        <file>image/message.png</file>
+        <file>image/iconOnline.png</file>
+        <file>image/iconMessage.png</file>
+    </qresource>
+</RCC>
